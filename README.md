@@ -44,7 +44,7 @@ Nesse projeto, objetivo é criar um sistema de gestão de hotel, utilizando tecn
     ```
     
 
-1. Acesse a pasta de projeto  utilizando do seguinte comando:
+1. 1. ***Acesse a pasta de projeto  utilizando do seguinte comando:***
     
     ```bash
     cd hotelaria
