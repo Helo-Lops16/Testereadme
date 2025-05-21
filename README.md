@@ -5,7 +5,7 @@ Nesse projeto, objetivo é criar um sistema de gestão de hotel, utilizando tecn
 
 ## Como utilizar :
 
-1. Criação do ambiente virtual
+1. ***Criação do ambiente virtual***
     
     Como o repositório esta clonado ou baixado do github, a venv está geralmente no `.gitignore`, os repositórios costumam a ignorar a pasta do ambiente virtual por alguns motivos como: 
     
@@ -43,4 +43,23 @@ Nesse projeto, objetivo é criar um sistema de gestão de hotel, utilizando tecn
     pip install Django
     ```
     
+
+1. Acesse a pasta de projeto  utilizando do seguinte comando:
+    
+    ```bash
+    cd hotelaria
+    ```
+    
+    ```markdown
+    📁 HOTELARIA/
+    ├── 📁 hotelaria/
+    │   ├── 📁 hotel/
+    │   ├── 📁 hotelaria/
+    │   ├── 📁 media\css/
+    │   ├── 📁 static/
+    │   ├── 📁 templates/
+    │   ├── 📄 db.sqlite3
+    │   └── 📄 manage.py
+    ├── 📁 venv/
+    ```
 
